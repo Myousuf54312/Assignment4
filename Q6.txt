@@ -1,0 +1,12 @@
+void main() {
+
+    String value = One().name1();
+    print (value);
+}  
+class One {
+  String name1 (){
+    var name = "My Name Is M.Yousuf Siddiqui";
+    return name;
+  }
+}
+

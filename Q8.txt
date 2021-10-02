@@ -1,0 +1,22 @@
+void main() {
+Bike bike = Bike();
+  bike.bikeClass();
+  bike.vehicalClass();
+  
+  
+}
+
+class Vehicals
+{
+   void vehicalClass(){
+  
+    print ('This is vehical class');
+  }
+}
+class Bike extends Vehicals 
+{
+   void bikeClass(){
+  
+    print ('This is bike class');
+  }
+}

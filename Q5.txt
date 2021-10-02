@@ -1,0 +1,17 @@
+void main() {
+
+  number1().function();
+}
+
+class number1
+{
+ void function (){
+   String name = "Yousuf Siddiqui";
+   String fatherName = "rehan Shakir";
+   int age = 18;
+     print (name);
+   print(fatherName);
+   print(age);
+   
+ } 
+}  

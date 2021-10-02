@@ -1,0 +1,11 @@
+void main() {
+  
+  function (8);
+  
+}
+  dynamic function (int num){
+    
+    for (var i=1;i<=10;i++){
+      print ('$num x $i = ${num*i}');
+    }
+  }
